@@ -7,6 +7,7 @@
 解決しなければそのまま問い合わせへ誘導します。
 
 ---
+<img width="928" height="1028" alt="スクリーンショット 2026-02-21 095516" src="https://github.com/user-attachments/assets/d58d5f56-5114-4a68-a5b4-d12d319f5231" />
 
 ## できること
 
