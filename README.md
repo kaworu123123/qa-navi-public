@@ -26,6 +26,11 @@
 - CSV出力による問い合わせ分析
 
 ---
+<img width="932" height="698" alt="スクリーンショット 2026-02-21 095520" src="https://github.com/user-attachments/assets/454a24b6-dae7-4777-b7bd-b8dea7497c2c" />
+
+<img width="910" height="593" alt="スクリーンショット 2026-02-21 095525" src="https://github.com/user-attachments/assets/35b610a0-5c61-4f8b-8714-be508794fa5d" />
+
+<img width="931" height="1224" alt="スクリーンショット 2026-02-21 095530" src="https://github.com/user-attachments/assets/189998bf-8d66-4978-9ed3-b3b864553e7b" />
 
 ## 特徴
 
@@ -46,6 +51,13 @@
 - 情シス専任がいない組織
 
 ---
+<img width="1268" height="1228" alt="スクリーンショット 2026-02-21 095542" src="https://github.com/user-attachments/assets/0a7b65f4-ebc4-425c-a1e2-7f0759529abc" />
+
+<img width="1106" height="1224" alt="スクリーンショット 2026-02-21 095547" src="https://github.com/user-attachments/assets/2c84abc8-7e5f-47ab-80ac-58900600620c" />
+
+<img width="1024" height="923" alt="スクリーンショット 2026-02-21 095552" src="https://github.com/user-attachments/assets/d0fd2a77-a87b-4cd4-a99d-cb3a6773f664" />
+
+<img width="1036" height="803" alt="スクリーンショット 2026-02-21 095557" src="https://github.com/user-attachments/assets/3ce53122-e541-4430-a9e5-957948a9d5d9" />
 
 ## 導入方法（概要）
 
